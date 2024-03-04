@@ -5,7 +5,7 @@
 </div>
 
 
-![1](https://github.com/Jaicypaz/imagen/assets/153859865/9c689889-33e0-4e10-b891-7b21f9419a5a)
+![1](https://github.com/Jaicypaz/imagen/assets/153859865/fc004b86-fcf1-42a2-ad91-dfa135183359)
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
