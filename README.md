@@ -44,3 +44,10 @@
 - Power Bi
 - Loocker studio
 - Tableau
+
+## Full Stack Python
+
+- Frontend: HTML, CSS, Bootstrap, JavaScript.
+- Backend: Python, Django, PostgreSQL.
+- Herramientas: VsCode, Terminal, Git, GitHub, Heroku, Postman, Amazon S3.
+- Metodologías: Scrum, Kanban.
